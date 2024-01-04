@@ -1,10 +1,10 @@
 /*Listagem de todos os produtos, indicando o valor total de vendas desse produto e quantas vezes foi
 vendido;*/
 SELECT 
-   veri_Produto AS Produto,
-   SUM(veri_valor_venda) AS Total_de_Vendas,
+   veri_Produto,
+   SUM(V_custo_total) AS Total_de_Vendas,
    COUNT(*) AS Quantidade_de_Vendas
 FROM 
-   verificaçao_venda
+   verificaçao_venda, vendas
 GROUP BY 
-   Produto;
+   veri_Produto
