@@ -3,6 +3,10 @@
 /* Created on:     04/01/2024 01:38:39                          */
 /*==============================================================*/
 
+/*criar base de dados*/
+DROP DATABASE IF EXISTS trabalho;
+CREATE DATABASE trabalho;
+USE trabalho;
 
 drop table if exists Apontamentos;
 
@@ -65,14 +69,14 @@ create table Autor
 /*==============================================================*/
 create table Docente
 (
-   "ID-Docente"         int not null,
+   ID_Docente         int not null,
    D_Nome               varchar(30) not null,
    D_Morada             varchar(60),
    D_Telefone           numeric(9,0) not null,
    D_Email              varchar(60) not null,
    D_Grau               varchar(20) not null,
    D_Categoria          varchar(20) not null,
-   primary key ("ID-Docente")
+   primary key (ID_Docente)
 );
 
 /*==============================================================*/
@@ -205,7 +209,7 @@ create table Materiais
 create table UC
 (
    ID_UC                int not null,
-   "ID-Docente"         int,
+   ID_Docente         int,
    U_Nome               varchar(30) not null,
    Sigla                varchar(4),
    Curso                varchar(40) not null,
@@ -265,8 +269,8 @@ alter table Livro add constraint FK_Livro_Materiais foreign key (ID_M_codigo)
 alter table Livro add constraint FK_Relationship_13 foreign key (ID_UC)
       references UC (ID_UC) on delete restrict on update restrict;
 
-alter table UC add constraint FK_UC_Docente foreign key ("ID-Docente")
-      references Docente ("ID-Docente") on delete restrict on update restrict;
+alter table UC add constraint FK_UC_Docente foreign key (ID_Docente)
+      references Docente (ID_Docente) on delete restrict on update restrict;
 
 alter table Vendas add constraint FK_Vendas_Funcionarios foreign key (ID_funcionario)
       references Funcionarios (ID_funcionario) on delete restrict on update restrict;
