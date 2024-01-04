@@ -19,4 +19,5 @@ A cláusula WHERE filtra as vendas para apenas o ano atual.
 A cláusula GROUP BY agrupa os resultados por ano e mês, então você obtém uma lista de meses 
 com seus valores de vendas totais correspondentes.
 Por favor, note que você precisa substituir veri_valor_venda pelo nome real da coluna que contém 
-o valor de cada venda na tabela verificaçao_venda*/
+o valor de cada venda na tabela verificaçao_venda
+CURRENT_DATE() returna a data em que estamos.*/
