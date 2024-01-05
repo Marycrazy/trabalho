@@ -1,16 +1,13 @@
 /*Apresentar o total (valor) de vendas por cada mês do presente ano;*/
-SELECT 
- YEAR(veri_data_venda) AS Ano,
- MONTH(veri_data_venda) AS Mes,
- SUM(V_custo_total) AS Total_de_Vendas
-FROM 
- verificaçao_venda, Vendas
-WHERE 
- YEAR(veri_data_venda) = YEAR(CURRENT_DATE())
-GROUP BY 
- Ano, Mes
-ORDER BY 
- Ano, Mes;
+SELECT YEAR(veri_data_venda) AS Ano, MONTH(veri_data_venda) AS Mes, SUM(V_custo_total) AS Total_de_Vendas
+
+FROM verificaçao_venda, Vendas
+
+WHERE YEAR(veri_data_venda) = YEAR(CURRENT_DATE())
+
+GROUP BY Ano, Mes
+
+ORDER BY Ano, Mes;
 
 /*Neste comando, YEAR(veri_data_venda) retorna o ano da data de 
 venda e MONTH(veri_data_venda) retorna o mês da data de venda. 

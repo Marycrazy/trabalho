@@ -238,7 +238,7 @@ create table verificaçao_venda
    ID_Vendas            int not null,
    ID_M_codigo          int not null,
    veri_Produto         varchar(20) not null,
-   veri_data_venda      date not null,
+   veri_data_venda      datetime not null,
    primary key (ID_Vendas, ID_M_codigo)
 );
 

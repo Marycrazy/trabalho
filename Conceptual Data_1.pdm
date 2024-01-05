@@ -1880,8 +1880,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o16">
-<a:Rect>((17905,17675), (18355,31925))</a:Rect>
-<a:ListOfPoints>((18130,31925),(18130,17675))</a:ListOfPoints>
+<a:Rect>((17914,17675), (18364,31925))</a:Rect>
+<a:ListOfPoints>((18139,31925),(18139,17675))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -1900,8 +1900,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o19">
-<a:Rect>((-103856,10802), (-77334,11252))</a:Rect>
-<a:ListOfPoints>((-103856,11028),(-84454,11028),(-84454,11026),(-77334,11026))</a:ListOfPoints>
+<a:Rect>((-103871,10802), (-77371,11252))</a:Rect>
+<a:ListOfPoints>((-103871,11028),(-84454,11028),(-84454,11026),(-77371,11026))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -1920,8 +1920,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o23">
-<a:Rect>((-63819,10831), (-42587,11281))</a:Rect>
-<a:ListOfPoints>((-42587,11056),(-63819,11056))</a:ListOfPoints>
+<a:Rect>((-63785,10831), (-42625,11281))</a:Rect>
+<a:ListOfPoints>((-42625,11056),(-63785,11056))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -1940,8 +1940,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o26">
-<a:Rect>((-33036,5811), (-11478,13096))</a:Rect>
-<a:ListOfPoints>((-33036,13096),(-11478,13096),(-11478,5811))</a:ListOfPoints>
+<a:Rect>((-32980,5811), (-11510,13096))</a:Rect>
+<a:ListOfPoints>((-32980,13096),(-11510,13096),(-11510,5811))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -1960,8 +1960,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o29">
-<a:Rect>((-33876,-13900), (-13961,-9850))</a:Rect>
-<a:ListOfPoints>((-33876,-13900),(-23639,-13900),(-23639,-9850),(-13961,-9850))</a:ListOfPoints>
+<a:Rect>((-33854,-13900), (-13993,-9850))</a:Rect>
+<a:ListOfPoints>((-33854,-13900),(-23639,-13900),(-23639,-9850),(-13993,-9850))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -1980,8 +1980,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o33">
-<a:Rect>((-35390,-12875), (-34940,271))</a:Rect>
-<a:ListOfPoints>((-35165,271),(-35165,-12875))</a:ListOfPoints>
+<a:Rect>((-35374,-12875), (-34924,271))</a:Rect>
+<a:ListOfPoints>((-35149,271),(-35149,-12875))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -2000,8 +2000,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o36">
-<a:Rect>((-33795,400), (-7434,3543))</a:Rect>
-<a:ListOfPoints>((-33795,400),(-21725,400),(-21725,3543),(-7434,3543))</a:ListOfPoints>
+<a:Rect>((-33765,400), (-7446,3543))</a:Rect>
+<a:ListOfPoints>((-33765,400),(-21725,400),(-21725,3543),(-7446,3543))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -2020,8 +2020,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o38">
-<a:Rect>((-8236,-9980), (20681,-9530))</a:Rect>
-<a:ListOfPoints>((20681,-9755),(-8236,-9755))</a:ListOfPoints>
+<a:Rect>((-8236,-9980), (20641,-9530))</a:Rect>
+<a:ListOfPoints>((20641,-9755),(-8236,-9755))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -2040,8 +2040,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o41">
-<a:Rect>((28317,-10369), (55044,-9919))</a:Rect>
-<a:ListOfPoints>((28317,-10144),(55044,-10144))</a:ListOfPoints>
+<a:Rect>((28368,-10369), (55027,-9919))</a:Rect>
+<a:ListOfPoints>((28368,-10144),(55027,-10144))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -2060,8 +2060,8 @@ DESTINATION 0 Microsoft Sans Serif,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o44">
-<a:Rect>((-37997,16169), (-37547,34319))</a:Rect>
-<a:ListOfPoints>((-37772,16169),(-37772,34319))</a:ListOfPoints>
+<a:Rect>((-37992,16169), (-37542,34319))</a:Rect>
+<a:ListOfPoints>((-37767,16169),(-37767,34319))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -2173,7 +2173,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o17">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((10887,15279), (23813,21722))</a:Rect>
+<a:Rect>((10733,15279), (23967,21722))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2196,7 +2196,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o24">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-46576,5825), (-30870,21034))</a:Rect>
+<a:Rect>((-46653,5825), (-30793,21034))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2219,7 +2219,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o27">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-12861,1536), (2613,10901))</a:Rect>
+<a:Rect>((-12900,1536), (2652,10901))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2242,7 +2242,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o20">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-107965,5377), (-94575,14742))</a:Rect>
+<a:Rect>((-108003,5377), (-94537,14742))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2265,7 +2265,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o30">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-44174,-16008), (-31094,-11513))</a:Rect>
+<a:Rect>((-44212,-16008), (-31056,-11513))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2288,7 +2288,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o31">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-15085,-15882), (-1387,-4569))</a:Rect>
+<a:Rect>((-15123,-15882), (-1349,-4569))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2311,7 +2311,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o42">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((51275,-13444), (64973,-6027))</a:Rect>
+<a:Rect>((51237,-13444), (65011,-6027))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2334,7 +2334,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o21">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-77707,7055), (-63005,15446))</a:Rect>
+<a:Rect>((-77745,7055), (-62967,15446))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2357,7 +2357,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o34">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-44104,-1935), (-29248,3534))</a:Rect>
+<a:Rect>((-44181,-1935), (-29171,3534))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2380,7 +2380,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o39">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((17504,-13057), (30506,-5640))</a:Rect>
+<a:Rect>((17427,-13057), (30583,-5640))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -5419,7 +5419,7 @@ ATT MAND</a:History>
 <a:Creator>FUJITSU</a:Creator>
 <a:ModificationDate>1704326795</a:ModificationDate>
 <a:Modifier>FUJITSU</a:Modifier>
-<a:TargetModelURL>file:///C|/Users/FUJITSU/Desktop/fjgrd/proj_BD/Conceptual Data_1.cdm</a:TargetModelURL>
+<a:TargetModelURL>file:///C|/Users/Mariana Magalhães/OneDrive/Ambiente de Trabalho/base dados I/trabalho/Conceptual Data_1.cdm</a:TargetModelURL>
 <a:TargetModelID>02D6E8B0-1286-4EF9-B239-68A578DD8B5B</a:TargetModelID>
 <a:TargetModelClassID>1E597170-9350-11D1-AB3C-0020AF71E433</a:TargetModelClassID>
 <c:SessionShortcuts>
