@@ -6,7 +6,7 @@ FROM
 GROUP BY 
  ID_Estudantes
 ORDER BY 
- NumeroDeFaltasDePagamento DESC, NumeroDeaquisiçoes DESC;
+ NumeroDeFaltasDePagamento DESC, NumeroDeaquisicoes DESC;
 
  /* COUNT(*) AS NumeroDeaquisicoes  conta o número de linhas, que neste caso é o número 
 total de aquisiçoes de fotocópias do estudante.
